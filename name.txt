@@ -6,4 +6,4 @@ CS-004   FODAY    249   62.25        B
 CS-005   JOSEPH   150   37.5         F
 CS-006   BINTU    187   46.75        D
 CS-007   HAJA     352   88           A+
-CS-008   OSMAN    279   69.75        B
+CS-008   OSMAN    200  69.75         C

@@ -1,0 +1,9 @@
+  ID     NAME    MARKS  PERCENTAGE  GRADE  REMARK
+CS-001   JOHN     285   71.25        A       
+CS-002   KELVIN   248   62           B
+CS-003   SAIDU    329   82.25        A+
+CS-004   FODAY    249   62.25        B
+CS-005   JOSEPH   150   37.5         F
+CS-006   BINTU    187   46.75        D
+CS-007   HAJA     352   88           A+
+CS-008   OSMAN    279   69.75        B
